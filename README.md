@@ -2,6 +2,7 @@
 # Software que se usaron
 - JDK version 17.0.12
 - Gson 2.10.1
+- Postman 11.14
 # IDE que se usaron
 - Intellij
 # Esquema
